@@ -4,7 +4,7 @@ name: "3D_Activity"
 on: push
 
 jobs:
-  3dactivity:
+  buildactivity:
     runs-on: ubuntu-latest
     steps:
       - name: GitHub-Profile-3D-Contrib
