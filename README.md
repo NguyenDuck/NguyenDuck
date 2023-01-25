@@ -1,4 +1,4 @@
-![](./profile-3d-contrib/profile-night-green.svg)
+![](./profile-3d-contrib/profile-night-green.svg)(#)
 
 [![NguyenDuck's GitHub stats](https://github-readme-stats.vercel.app/api?username=NguyenDuck&theme=tokyonight&layout=compact)](#)
 
