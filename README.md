@@ -1,7 +1,7 @@
-[![](./profile-3d-contrib/profile-night-rainbow.svg)](#)
+[![](./profile-3d-contrib/profile-night-rainbow.svg)]()
 
-[![NguyenDuck's GitHub stats](https://github-readme-stats.vercel.app/api?username=NguyenDuck&theme=tokyonight&layout=compact)](#)
+[![](https://github-readme-stats.vercel.app/api?username=NguyenDuck&theme=tokyonight&layout=compact)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDuck&theme=tokyonight&layout=compact)](#)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDuck&theme=tokyonight&layout=compact)]()
 
 # Creativity Is Infinite!
