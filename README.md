@@ -4,4 +4,6 @@
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDuck&theme=tokyonight&layout=compact)]()
 
+![](https://komarev.com/ghpvc/?username=NguyenDuck&style=for-the-badge&abbreviated=true&color=orange)
+
 # Creativity Is Infinite!
