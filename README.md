@@ -5,3 +5,5 @@
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDuck&theme=tokyonight&layout=compact)](#)
 
 # Creativity Is Infinite!
+
+<img src="./ic_launcher_round.svg"/>
