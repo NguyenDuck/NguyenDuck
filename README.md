@@ -6,4 +6,4 @@
 
 # Creativity Is Infinite!
 
-<img src="./ic_launcher_round.svg"/>
+<img src="./ic_launcher_round_3.svg"/>
